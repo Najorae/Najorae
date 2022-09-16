@@ -1,4 +1,4 @@
-# Hello World <3
+# Hello World 💙
 
 - 👋 Hi, I’m @Najorae!
 - 👀 I’m interested in learning about game devlopment, app building, & coding for social justice & change
